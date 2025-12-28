@@ -64,10 +64,91 @@ IA está em alta em diversos setores, mas a entrada inicial pode ser mais desafi
 👉 Qual dessas carreiras te chamou mais atenção?
 
 
+Colocando o interesse em resolver problemas, retornou isso:
+
+Boa pergunta! 🔎 Se o seu interesse maior for **resolver problemas**, isso muda bastante a análise do seu perfil. Nesse caso, carreiras que envolvem **diagnóstico, análise e solução de desafios complexos** ganham mais pontos na matriz de decisão.  
+
+Aqui está como ficaria o novo ranking para você:
+
+════════════════════════════════════════════════════════════  
+🥇 **1º LUGAR: Analista de Dados / Data Analyst** – 18/20  
+════════════════════════════════════════════════════════════  
+
+💡 **Por que combina com você:**  
+Resolver problemas com dados é exatamente o papel de um analista. Você transforma informações em insights e ajuda empresas a tomar decisões melhores.  
+
+⚖️ **O que esperar:**  
+**Vantagens:**  
+- Trabalho direto com dados para solucionar questões reais  
+- Ramp-up mais rápido que ciência de dados avançada  
+
+**Desafios:**  
+- Precisa aprender ferramentas como SQL, Excel e Python  
+- Exige raciocínio lógico e atenção a detalhes  
+
+📈 **Mercado:**  
+Muito aquecido em empresas de todos os setores. A demanda varia por região, mas é uma das portas de entrada mais sólidas para quem gosta de resolver problemas.  
+
+════════════════════════════════════════════════════════════  
+🥈 **2º LUGAR: Desenvolvedor Android Júnior** – 16/20  
+════════════════════════════════════════════════════════════  
+
+💡 **Por que combina com você:**  
+Criar apps envolve resolver problemas de usabilidade, performance e integração. Você aplica lógica para transformar ideias em soluções práticas.  
+
+⚖️ **O que esperar:**  
+**Vantagens:**  
+- Possibilidade de criar produtos próprios  
+- Mercado em expansão com apps móveis  
+
+**Desafios:**  
+- Precisa aprender linguagens específicas (Kotlin/Java)  
+- Resolver bugs e compatibilidade entre dispositivos  
+
+📈 **Mercado:**  
+O mercado de apps segue crescendo, com oportunidades em startups e empresas de tecnologia.  
+
+════════════════════════════════════════════════════════════  
+🥉 **3º LUGAR: Engenheiro de Software Júnior** – 15/20  
+════════════════════════════════════════════════════════════  
+
+💡 **Por que combina com você:**  
+Engenharia de software é sobre **resolver problemas complexos** de arquitetura, performance e escalabilidade. É uma carreira que exige raciocínio lógico e foco em soluções.  
+
+⚖️ **O que esperar:**  
+**Vantagens:**  
+- Desenvolvimento de sistemas robustos e escaláveis  
+- Grande variedade de áreas de atuação  
+
+**Desafios:**  
+- Ramp-up mais longo para quem começa do zero  
+- Exige disciplina em boas práticas e estruturas de código  
+
+📈 **Mercado:**  
+Muito amplo, com alta demanda em empresas de tecnologia, consultorias e startups.  
+
+════════════════════════════════════════════════════════════  
+
+👉 Agora me conta: qual dessas carreiras te chamou mais atenção?
 
 
 
 
 
 
+Aqui estão as informações que ele vai receber:
+
+    Carreira escolhida: Desenvolvedor Android Júnior
+
+    Horas disponíveis por semana: 6 horas
+
+    Nível de experiência: começando do zero
+
+    Objetivo: transição de carreira
+
+    Preferência: dados (mas com foco em apps Android)
+
+    Interesses técnicos mencionados: desenvolvimento de Apps Android e Inteligência Artificial
+
+👉 Transferindo para o Agent 2 agora!
 
